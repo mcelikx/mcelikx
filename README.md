@@ -2,8 +2,8 @@
 
 My name is Muhammed and
 
-- 🔭 I’m currently working on React & React Native
-- 🌱 I’m currently learning Node.js & MongoDB
+- 🔭 I’m currently working with React, React Native, Node.js and MongoDB
+- 🌱 I’m currently learning Cloud Technologies
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about E-Commerce Solutions, Entrepreneurship and Business Development 
 - 📫 How to reach me: mcelik@mygymassistant.com
