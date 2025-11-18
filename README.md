@@ -9,4 +9,14 @@ My name is Muhammed and
 - 📫 How to reach me: mcelik@mygymassistant.com
 - 📖 You can reach my blog posts on [mcelik.dev](https://www.mcelik.dev/)
 
-![mcelikx's GitHub stats](https://github-readme-stats-mcelikxs-projects.vercel.app/api?username=mcelikx&show_icons=true&theme=transparent)
+<picture>
+  <source
+    srcset="https://github-readme-stats-mcelikxs-projects.vercel.app/api?username=mcelikx&show_icons=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-mcelikxs-projects.vercel.app/api?username=mcelikx&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-mcelikxs-projects.vercel.app/api?username=mcelikx&show_icons=true" />
+</picture>
